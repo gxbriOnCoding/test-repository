@@ -3,3 +3,5 @@ ciao da locale
 cia da remoto
 
 ciao da desktop
+
+ciao da chrome
