@@ -5,6 +5,7 @@ public class SStart
   //quando fai commit scrivi sempre SEMPRE il commento 
   {
     System.out.println("buubsss");
+    System.out.println("buubsss2");
 
   }
 
